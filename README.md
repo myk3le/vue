@@ -1,5 +1,6 @@
 
 # Michael's Vue Projects
+This is my repository for collecting all of my Vue projects into one spot
 
 ## Find a Coach App (Live)
 - https://vue-http-demo-6e7d4.web.app/
